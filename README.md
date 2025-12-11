@@ -11,3 +11,9 @@ Problem_2
         Output1:- 1,3,5
         Input2:- 4
         Output2:- 1,3,5,7
+
+Problem_3
+         1) input1 : 1, output1 : 1
+         2) input2 : 2, output2 : 1
+         3) input3 : 3, output3 : 1, 3, 5
+         4) input4 : 4, output4 : 1, 3, 5
