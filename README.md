@@ -18,3 +18,7 @@ Problem_3
          2) input2 : 2, output2 : 1
          3) input3 : 3, output3 : 1, 3, 5
          4) input4 : 4, output4 : 1, 3, 5
+
+Problem_4
+          input: [16,8,61,29,5,4]
+          Output: {1: 6, 2: 3, 3: 0, 4: 3, 5: 1, 6: 0, 7: 0, 8: 2, 9: 0}
